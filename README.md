@@ -48,3 +48,6 @@
  - ifs&whiles - Webinar SQL
  - ifs&whiles - Webinar API testing
  - ifs&whiles - Webinar DevTools
+ # Facebook groups
+  - Tester oprogramowania - wsparcie na starcie
+  - Testowanie oprogramowania
