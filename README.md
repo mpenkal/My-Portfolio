@@ -22,7 +22,7 @@
   - Git
   - Sublime text
   - Visual Studio Code
-  
+  - DevTools
   
 # Testing education
 
@@ -40,3 +40,11 @@
  
  [ISTQB](http://scr.istqb.org/)  Cert. No - 15119/FLCT/2020
   
+ # Books
+ 
+ - R. Smiglin - Zawód Tester
+
+ # [Webinars](https://www.czyitjestdlamnie.pl/warsztaty)
+ - ifs&whiles - Webinar SQL
+ - ifs&whiles - Webinar API testing
+ - ifs&whiles - Webinar DevTools
