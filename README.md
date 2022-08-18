@@ -33,4 +33,10 @@
   - Introduction to POSTMAN - Tejasvi Hedge
   - RESTful API Testing with POSTMAN - Zakaria Chowdhury
   - Git w pigułce - Cyfrowy Trener
+ 
+ My udemy.com learnig platform is constantly update with new training courses. These presented above are the one I've completed.
+ 
+ # Certifications
+ 
+ [ISTQB]http://scr.istqb.org/  Cert. No - 15119/FLCT/2020
   
