@@ -38,5 +38,5 @@
  
  # Certifications
  
- [ISTQB]http://scr.istqb.org/  Cert. No - 15119/FLCT/2020
+ [ISTQB](http://scr.istqb.org/)  Cert. No - 15119/FLCT/2020
   
