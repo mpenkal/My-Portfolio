@@ -16,5 +16,5 @@
 
 # Testing education
 
-  [Software Development Academy - Tester oprogrmowania (116h)] (https://sdacademy.pl/kursy/software-tester/)
+  [Software Development Academy - Tester oprogrmowania (116h)](https://sdacademy.pl/kursy/software-tester/)
   
