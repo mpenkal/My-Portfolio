@@ -51,3 +51,5 @@
  # Facebook groups
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
+# My testing documentation example
+[https://docs.google.com/spreadsheets/d/1nkwcrT0qNh8rPMYbIaEUGPX7SCcoXaqqvLsvloukYKQ/edit?usp=sharing]
